@@ -1,0 +1,19 @@
+[
+    {
+      "role": "Frontend Developer Intern",
+      "organisation": "OUTgrow Consulting",
+      "startDate": "August, 2023",
+      "endDate": "October 2023",
+      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+      "imageSrc": "history/google.png"
+      
+    },
+    {
+      "role": "Java  Developer Intern",
+      "organisation": "Digital Bhem",
+      "startDate": "July, 2023",
+      "endDate": "Aug, 2023",
+      "experiences": ["Worked on Developing Games", "Designed the Interface"],
+      "imageSrc": "history/microsoft.png"
+    }
+  ]

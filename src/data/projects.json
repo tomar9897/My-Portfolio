@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Project A",
+      "imageSrc": "projects/project.png",
+      "description": "Shop seamlessly for trendy fashion items on our Myntra-inspired online destination with intuitive navigation and wishlist features.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://tomar9897.github.io/myntra-clone/",
+      "source": "https://www.github.com/tomar9897/myntra-clone"
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/project.png",
+      "description": "TExplore an interactive animated website designed for honing full-stack skills with engaging visual tutorials and hands-on coding challenges.",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://tomar9897.github.io/Sundown-Studios/",
+      "source": "https://www.github.com/tomar9897/Sundown-Studios"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "YouTube: The ultimate platform for streaming, sharing, and discovering videos on any topic imaginable.",
+      "skills": ["React", "Express", "Node", "MongoDB"],
+      "demo": "https://tomar9897.github.io/Youtube/",
+      "source": "https://github.com/tomar9897/Youtube"
+    }
+  ]
